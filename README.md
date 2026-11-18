@@ -2,17 +2,17 @@
   <img src="assets/hero.svg" alt="Pixel-art Hong Kong skyline at night with the name Jonathan Chan" width="100%">
 </p>
 
-<h3 align="center">hey, i'm jonathan 👋</h3>
+<h3 align="center">Hi, Im Jonathan! 👋</h3>
 
 <p align="center">
   CS + Math @ University of Toronto<br>
-  ML Developer @ UofT CREATE &nbsp;·&nbsp; Director of Academics @ GDG on Campus UTSC<br>
-  <sub>Toronto ⇄ Hong Kong &nbsp;·&nbsp; English · 廣東話 · 普通話</sub>
+  Dev @ UofT CREATE &nbsp;·&nbsp; Director of Academics @ GDG on Campus<br>
+  <sub>Toronto ⇄ Hong Kong</sub>
 </p>
 
 <br>
 
-<h3 align="center">stack</h3>
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,c,js,php,mysql,html,css,fastapi,flask,react,nodejs,pytorch,sklearn,git,linux&perline=8&theme=dark" alt="Python, Java, C, JavaScript, PHP, MySQL, HTML, CSS, FastAPI, Flask, React, Node.js, PyTorch, scikit-learn, Git, Linux">
@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="center">contributions</h3>
+<h3 align="center">Contributions</h3>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
