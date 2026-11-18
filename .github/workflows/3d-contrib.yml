@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 18 * * *" # daily, 18:00 UTC
   workflow_dispatch:     # run manually from the Actions tab
+  push:
+    branches: [main]     # also regenerate whenever you push changes
 
 permissions:
   contents: write
